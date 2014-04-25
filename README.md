@@ -5,19 +5,14 @@
 *XLForm* is the most flexible and powerful iOS library to create dynamic table-view forms.
 - [SWTableViewCel](https://github.com/CEWendel/SWTableViewCel)  
 An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
-
----
 - [RETableViewManager](https://github.com/romaonthego/RETableViewManager)  
 Powerful data driven content manager for UITableView.
 
----
 ###CollectionView
 - [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)  
 This is a parallax for the cells inside UICollectionView. It gives us an effect just like scrolling the images in Whatsapp or scrolling through the Weather app for iOS
 - [HAPaperViewController](https://github.com/hebertialmeida/HAPaperViewController)  
 UICollectionView with layout transitions inspired by Facebook Paper App
-
----
 
 - [WaterfallCollectionView](https://github.com/SureCase/WaterfallCollectionView)  
 Waterfall-style implementation of UICollectionView layout
@@ -39,6 +34,8 @@ Scrollable UINavigationBar that follows the scrolling of a UIScrollView
 UIView category which makes it easy to create layout constraints in code
 - [MSSimpleGauge](https://github.com/sabymike/MSSimpleGauge)  
 No description
+- [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider)  
+A UISlider subclass that displays live values in an easy to customize popup view.
 
 ###AlertView
 - [CRToast](https://github.com/cruffenach/CRToast)  
